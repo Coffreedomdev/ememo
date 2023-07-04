@@ -58,8 +58,8 @@ void setup(){
     btnHandleInit();
     int waitCnt = 0;
     //type your own wifi ssid, pwd
-    // WiFi.begin("ssid","pwd");
-    WiFi.begin("coffreedomX60","Cf45128158money");
+    WiFi.begin("ssid","pwd");
+   
     Serial.printf("WiFi connecting.");
     while (WiFi.status() != WL_CONNECTED) {
       waitCnt++;
