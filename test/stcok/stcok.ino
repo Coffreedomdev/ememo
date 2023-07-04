@@ -56,7 +56,8 @@ void setup(){
   btnHandleInit();
   Serial.begin(115200);
   delay(1000); //Take some time to open up the Serial Monitor
-  WiFi.begin("coffreedomX60","Cf45128158money");
+  // WiFi.begin("coffreedomX60","Cf45128158money");
+  WiFi.begin("your ssid", "wifi password");
   Serial.printf("WiFi Connecting.");
   int testCnt=0;
   while (WiFi.status() != WL_CONNECTED && ++testCnt<60){
