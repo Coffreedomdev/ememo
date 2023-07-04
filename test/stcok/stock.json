@@ -1,0 +1,37 @@
+{
+    "msgArray": [
+        {
+            "tv": "16187",
+            "c": "t00",
+            "d": "20221214",
+            "ch": "t00.tw",
+            "tlong": "1670995860000",
+            "ip": "0",
+            "h": "14739.36",
+            "i": "tidx.tw",
+            "it": "t",
+            "l": "14557.56",
+            "n": "發行量加權股價指數",
+            "o": "14557.56",
+            "ex": "tse",
+            "t": "13:31:00",
+            "v": "189331",
+            "y": "14522.96",
+            "z": "14739.36"
+        }
+    ],
+    "referer": "",
+    "userDelay": 5000,
+    "rtcode": "0000",
+    "queryTime": {
+        "sysDate": "20221214",
+        "stockInfoItem": 283,
+        "stockInfo": 195787,
+        "sessionStr": "UserSession",
+        "sysTime": "14:54:25",
+        "showChart": false,
+        "sessionFromTime": -1,
+        "sessionLatestTime": -1
+    },
+    "rtmessage": "OK"
+}
