@@ -58,7 +58,7 @@ void setup(){
     btnHandleInit();
     int waitCnt = 0;
     //type your own wifi ssid, pwd
-    WiFi.begin("ssid","pwd");
+    WiFi.begin("your ssid","wifi password");
    
     Serial.printf("WiFi connecting.");
     while (WiFi.status() != WL_CONNECTED) {
