@@ -19,4 +19,4 @@
 
 #ESP32 Filesystem Uploader
 - 本範例以取得台股證交所股票資訊為例，該範例程式放置在/test資料夾下
-- 準備工具：Arduino IDE 2.0以下(不含2.0版本)，至Github ESP32FS(https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/)下載插件，安裝方式可參考 本篇(https://www.qutaojiao.com/108784.html)
+- 準備工具：Arduino IDE 2.0以下(不含2.0版本)，至Github ESP32FS(https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/) 下載插件，安裝方式可參考 本篇(https://www.qutaojiao.com/108784.html)
