@@ -11,3 +11,6 @@
 
 - 本範例上傳圖片網頁畫面
 ![image](https://github.com/Coffreedomdev/tempimg/blob/main/webpagedisplay.png)
+
+- 圖片上傳成功後，顯示在ememo上的樣子如下：
+![image](https://github.com/Coffreedomdev/tempimg/blob/main/S__3162162.jpg)
